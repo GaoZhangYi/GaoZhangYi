@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @GaoZhangYi
-- 👀 I’m interested in xxxxxx
-- 🌱 I’m currently learning Artificial intelligence. 
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me: gg.ivymail@gmail.com
+
 
 
 <!---
