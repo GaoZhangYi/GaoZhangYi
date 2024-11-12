@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @GaoZhangYi
+- Huazhong University of Science and Technology
+- School of Future Technology, major in Artificial Intelligence
 
 
 
